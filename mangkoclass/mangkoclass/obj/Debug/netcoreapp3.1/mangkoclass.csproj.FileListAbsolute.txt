@@ -1,0 +1,13 @@
+E:\Pj\mangkoclass\mangkoclass\bin\Debug\netcoreapp3.1\mangkoclass.exe
+E:\Pj\mangkoclass\mangkoclass\bin\Debug\netcoreapp3.1\mangkoclass.deps.json
+E:\Pj\mangkoclass\mangkoclass\bin\Debug\netcoreapp3.1\mangkoclass.runtimeconfig.json
+E:\Pj\mangkoclass\mangkoclass\bin\Debug\netcoreapp3.1\mangkoclass.runtimeconfig.dev.json
+E:\Pj\mangkoclass\mangkoclass\bin\Debug\netcoreapp3.1\mangkoclass.dll
+E:\Pj\mangkoclass\mangkoclass\bin\Debug\netcoreapp3.1\mangkoclass.pdb
+E:\Pj\mangkoclass\mangkoclass\obj\Debug\netcoreapp3.1\mangkoclass.AssemblyInfoInputs.cache
+E:\Pj\mangkoclass\mangkoclass\obj\Debug\netcoreapp3.1\mangkoclass.AssemblyInfo.cs
+E:\Pj\mangkoclass\mangkoclass\obj\Debug\netcoreapp3.1\mangkoclass.csproj.CoreCompileInputs.cache
+E:\Pj\mangkoclass\mangkoclass\obj\Debug\netcoreapp3.1\mangkoclass.dll
+E:\Pj\mangkoclass\mangkoclass\obj\Debug\netcoreapp3.1\mangkoclass.pdb
+E:\Pj\mangkoclass\mangkoclass\obj\Debug\netcoreapp3.1\mangkoclass.genruntimeconfig.cache
+E:\Pj\mangkoclass\mangkoclass\obj\Debug\netcoreapp3.1\mangkoclass.csprojAssemblyReference.cache
